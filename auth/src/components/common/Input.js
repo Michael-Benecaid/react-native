@@ -12,6 +12,10 @@ const Input = ({ label, value, onChangeText }) => {
 			/>
 		</View>
 	);
+};
+
+const styles = {
+
 }
 
 export { Input }
